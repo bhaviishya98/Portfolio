@@ -1,12 +1,32 @@
 import classes from "./Project.module.css";
 import ProjectCard from "./ProjectCard";
 import vidoHubImage from "../../../../../public/images/projects images/icons8-pot-player.svg";
-import movieImage from "../../../../../public/images/projects images/blue_color_movie_symbol.jpg";
-import forwardImage from "../../../../../public/images/projects images/red_color_shopping_cart.png";
-import galleryImage from "../../../../../public/images/projects images/grey_color_camera_symbol.png";
+import PokemonImage from "../../../../../public/images/projects images/pk.jpg";
+import NetflixImage from "../../../../../public/images/projects images/n.jpg";
+import VSImage from "../../../../../public/images/projects images/vs.jpg";
 
 function Project() {
   let projectsData = [
+    {
+      title: "VS Portfolio",
+      description: "Personal Portfolio",
+      image: VSImage,
+      tags: ["react" ,"html", "css", "javascript"],
+      links: {
+        source: "https://github.com/Utkarsh-190/Image-Gallery",
+        live: "https://utkarsh-190.github.io/Image-Gallery/",
+      },
+    },
+    {
+      title: "Pokemon Search App",
+      description: "Website to search about details of Pokemons",
+      image: PokemonImage,
+      tags: ["react", "html", "css", "javascript"],
+      links: {
+        source: "https://github.com/bhaviishya98/Pokemon-Search-App",
+        live: "https://bhaviishya98.github.io/Pokemon-Search-App/",
+      },
+    },
     {
       title: "Video Hub",
       description: "Website to watch videos",
@@ -18,34 +38,13 @@ function Project() {
       },
     },
     {
-      title: "Pokemon Search App",
-      description:
-        "Website to search about details of Pokemons",
-      image: movieImage,
-      tags: ["react", "html", "css", "javascript"],
+      title: "Netflix Landing Page",
+      description: "Developed frontend of Netflix Landing Page",
+      image: NetflixImage,
+      tags: ["javascript", "html", "css"],
       links: {
-        source: "https://github.com/Utkarsh-190/MovieInfo",
-        live: "https://utkarsh-190.github.io/MovieInfo/",
-      },
-    },
-    {
-      title: "Forward",
-      description: "Developed frontend of website to buy products online",
-      image: forwardImage,
-      tags: ["javascript", "html", "css", "bootstrap"],
-      links: {
-        source: "https://github.com/Utkarsh-190/Productathon",
-        live: "https://utkarsh-190.github.io/Productathon/",
-      },
-    },
-    {
-      title: "Image Gallery",
-      description: "Website to showcase your photography skills",
-      image: galleryImage,
-      tags: ["html", "css", "bootstrap"],
-      links: {
-        source: "https://github.com/Utkarsh-190/Image-Gallery",
-        live: "https://utkarsh-190.github.io/Image-Gallery/",
+        source: "https://github.com/bhaviishya98/Netflix-Landing-Page/",
+        live: "https://bhaviishya98.github.io/Netflix-Landing-Page/",
       },
     },
   ];
