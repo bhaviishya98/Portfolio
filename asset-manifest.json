@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/VScode-portfolio/static/css/main.f1d3da87.chunk.css",
+    "main.js": "/VScode-portfolio/static/js/main.8eeacaa8.chunk.js",
+    "main.js.map": "/VScode-portfolio/static/js/main.8eeacaa8.chunk.js.map",
+    "runtime-main.js": "/VScode-portfolio/static/js/runtime-main.313e2dee.js",
+    "runtime-main.js.map": "/VScode-portfolio/static/js/runtime-main.313e2dee.js.map",
+    "static/js/2.11295ca7.chunk.js": "/VScode-portfolio/static/js/2.11295ca7.chunk.js",
+    "static/js/2.11295ca7.chunk.js.map": "/VScode-portfolio/static/js/2.11295ca7.chunk.js.map",
+    "static/js/3.0fa999f2.chunk.js": "/VScode-portfolio/static/js/3.0fa999f2.chunk.js",
+    "static/js/3.0fa999f2.chunk.js.map": "/VScode-portfolio/static/js/3.0fa999f2.chunk.js.map",
+    "index.html": "/VScode-portfolio/index.html",
+    "static/css/main.f1d3da87.chunk.css.map": "/VScode-portfolio/static/css/main.f1d3da87.chunk.css.map",
+    "static/js/2.11295ca7.chunk.js.LICENSE.txt": "/VScode-portfolio/static/js/2.11295ca7.chunk.js.LICENSE.txt",
+    "static/media/css_icon.add2e81e.svg": "/VScode-portfolio/static/media/css_icon.add2e81e.svg",
+    "static/media/html_icon.81ea8ec6.svg": "/VScode-portfolio/static/media/html_icon.81ea8ec6.svg",
+    "static/media/icons8-pot-player.7d6a84ea.svg": "/VScode-portfolio/static/media/icons8-pot-player.7d6a84ea.svg",
+    "static/media/js_icon.c33d040b.svg": "/VScode-portfolio/static/media/js_icon.c33d040b.svg",
+    "static/media/json_icon.4b50304b.svg": "/VScode-portfolio/static/media/json_icon.4b50304b.svg",
+    "static/media/markdown_icon.f4c40ee2.svg": "/VScode-portfolio/static/media/markdown_icon.f4c40ee2.svg",
+    "static/media/n.87ce3aa9.jpg": "/VScode-portfolio/static/media/n.87ce3aa9.jpg",
+    "static/media/profile_pic.593ffc0a.png": "/VScode-portfolio/static/media/profile_pic.593ffc0a.png",
+    "static/media/react_icon.3d6c4d1f.svg": "/VScode-portfolio/static/media/react_icon.3d6c4d1f.svg",
+    "static/media/vs.7312feb2.jpg": "/VScode-portfolio/static/media/vs.7312feb2.jpg",
+    "static/media/vscode_icon.88d5b2e2.svg": "/VScode-portfolio/static/media/vscode_icon.88d5b2e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.313e2dee.js",
+    "static/js/2.11295ca7.chunk.js",
+    "static/css/main.f1d3da87.chunk.css",
+    "static/js/main.8eeacaa8.chunk.js"
+  ]
+}
