@@ -13,8 +13,8 @@ function Project() {
       image: VSImage,
       tags: ["react" ,"html", "css", "javascript"],
       links: {
-        source: "https://github.com/Utkarsh-190/Image-Gallery",
-        live: "https://utkarsh-190.github.io/Image-Gallery/",
+        source: "https://github.com/bhaviishya98/Portfolio",
+        live: "https://bhaviishya98.github.io/Portfolio/",
       },
     },
     {
