@@ -46,7 +46,7 @@ function Contact() {
           <div>
             &nbsp;&nbsp;&nbsp;website:{" "}
             <a
-              href="https://utkarsh-190.github.io/VScode-portfolio/"
+              href="https://bhaviishya98.github.io/Portfolio/"
               target="_blank"
             >
               portfolio

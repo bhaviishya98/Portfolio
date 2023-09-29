@@ -14,7 +14,7 @@ function About() {
             Rewari, Haryana.
           </a>
         </span>
-        <br />I freelance when I can, mostly building custom websites that you
+        <br />I freelance when I can, mostly build custom websites that you
         can’t get from a template. My place in the world seems to be at the{" "}
         <span>intersection of creativity and logic</span>. I approach each
         problem as a <span>learning experience</span> that informs the rest of
